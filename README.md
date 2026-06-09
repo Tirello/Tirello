@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Samuel Tirello 👋</h1>
+<h1 align="center">Olá, meu nome é Samuel Tirello 👋</h1>
 
 <p align="center">
-Estudante de Engenharia Mecatrônica na USP — EESC São Carlos.<br>
+Engenharia Mecatrônica na USP — EESC São Carlos.<br>
 </p>
 
 ---
