@@ -19,8 +19,8 @@ Estudante de Engenharia Mecatrônica na USP — EESC São Carlos.<br>
 
 ### 📊 Estatísticas
 <p align="center">
-  <img height="160" src="https://github-readme-stats-ten-woad-61.vercel.app/api?username=Tirello&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-ten-woad-61.vercel.app/api/top-langs/?username=Tirello&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-ten-woad-61.vercel.app/api?username=Tirello&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-ten-woad-61.vercel.app/api/top-langs/?username=Tirello&layout=compact&count_private=true&langs_count=6&hide=jupyter%20notebook,html&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Minhas Contribuições
