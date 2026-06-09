@@ -24,4 +24,8 @@ Estudante de Engenharia Mecatrônica na USP — EESC São Carlos.<br>
 </p>
 
 ### 🐍 Minhas Contribuições
-![snake](https://raw.githubusercontent.com/Tirello/Tirello/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tirello/Tirello/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tirello/Tirello/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Tirello/Tirello/output/github-snake-dark.svg" />
+</picture>
