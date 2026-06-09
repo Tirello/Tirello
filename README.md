@@ -9,7 +9,7 @@ Engenharia Mecatrônica na USP — EESC São Carlos.<br>
 ### 🚀 Sobre mim
 - 🎓 Engenharia Mecatrônica - EESC-USP
 - 🛩️ Membro do NRA (Núcleo de Robótica Aérea) — SEMEAR
-- 🌐 [LinkedIn](www.linkedin.com/in/samuel-tirello-36b723343)
+- 🌐 [LinkedIn](www.linkedin.com/in/samuel-tirello)
 
 ### 🛠️ Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
